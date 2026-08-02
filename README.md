@@ -34,15 +34,32 @@ Technical Skills Applied
 
 🔹 Data Visualization & Storytelling
 
-This project enhanced my ability to design business-focused dashboards, build analytical solutions, and communicate insights effectively through data visualization.
+# Finance Analysis Dashboard
+
+## Dashboard Overview
+Interactive Finance Analysis Dashboard developed using Power BI to analyze transaction performance, customer behavior, and financial KPIs.
+
 ## Dashboard Screenshots
 
-### Finance Analysis Dashboard
+### Executive Dashboard
 
-![Finance Dashboard](finance%20dashboard.png)
+![Finance Dashboard](Images/Finance_Dashboard.png)
 
-### Transaction Analysis Dashboard
+### Transaction Analysis
 
-![Transaction Dashboard](Transaction.png)
+![Transaction Dashboard](Images/Transaction_Dashboard.png)
+
+## Key Insights
+- Total Transaction Amount: ₹135.62M
+- Total Transactions: 15K
+- Success Rate: 84.88%
+- Top State: Maharashtra
+- Top Segment: Retail
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- CSV Dataset
 
 
