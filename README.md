@@ -35,5 +35,14 @@ Technical Skills Applied
 🔹 Data Visualization & Storytelling
 
 This project enhanced my ability to design business-focused dashboards, build analytical solutions, and communicate insights effectively through data visualization.
+## Dashboard Screenshots
+
+### Finance Analysis Dashboard
+
+![Finance Dashboard](finance%20dashboard.png)
+
+### Transaction Analysis Dashboard
+
+![Transaction Dashboard](Transaction.png)
 
 
