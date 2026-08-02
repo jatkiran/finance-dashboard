@@ -36,4 +36,4 @@ Technical Skills Applied
 
 This project enhanced my ability to design business-focused dashboards, build analytical solutions, and communicate insights effectively through data visualization.
 
-https://github.com/jatkiran/finance-dashboard/blob/main/finance%20dashboard.png
+Example: ![Dashboard Preview] (https://github.com/jatkiran/finance-dashboard/blob/main/finance%20dashboard.png)
