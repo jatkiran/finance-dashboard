@@ -43,11 +43,11 @@ Interactive Finance Analysis Dashboard developed using Power BI to analyze trans
 
 ### Executive Dashboard
 
-![Finance Dashboard](Finance_Dashboard.png)
+![Finance Dashboard](Financeanalysis.png)
 
 ### Transaction Analysis
 
-![Transaction Dashboard](Transaction_Dashboard.png)
+![Transaction Dashboard](Transaction.png)
 
 ## Key Insights
 - Total Transaction Amount: ₹135.62M
