@@ -43,7 +43,7 @@ Interactive Finance Analysis Dashboard developed using Power BI to analyze trans
 
 ### Executive Dashboard
 
-![Finance Dashboard](finance dashboard.png)
+![Finance Dashboard](financedashboard.png)
 
 ### Transaction Analysis
 
